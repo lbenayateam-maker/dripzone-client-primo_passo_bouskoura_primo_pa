@@ -1,0 +1,4 @@
+Dripzone Pro Template v2
+Folder: C:\Users\Administrator\Documents\Saas service website\build\Release\websites\primo_passo_bouskoura_primo_pa.__building
+Company: Primo Passo Bouskoura
+Template: moroccan-tagine-larache-physics
